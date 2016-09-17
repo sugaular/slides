@@ -1,0 +1,50 @@
+# 回路ミス０％　回路図NET自動チェックツール
+
+
+私は　すがお　と申します。
+
+ハンドル名はsugaularで通しています。
+
+会社ではエレキ技術者をしています。
+
+
+この度、プライベートで作った
+
+「ScutChecker」と言うフリーソフトの
+
+紹介に上がりました。
+
+
+---
+
+## アジェンダ
+
+* ScoutCheckerとは？
+* 得られるメリット
+* 使い方
+* 今後
+
+---
+
+## Hello World
+
+
+    package main
+
+    import "fmt"
+
+    func main() {
+        fmt.Println("Hello World")
+    }
+
+---
+
+## Image
+
+![Slideck](images/slideck_ss.png)
+
+---
+
+Check out Slideck now!
+
+<https://slideck.io/>
