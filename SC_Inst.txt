@@ -1,6 +1,10 @@
+<style>
+.markdown-body { font-size: 8px; }
+</style>
+
 回路ミス０％　回路図NET自動チェックツール
 
-**ScoutChecker**
+<span style="font-size:72px">**ScoutChecker**</span>
 
 sugaular
 
