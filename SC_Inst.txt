@@ -1,28 +1,28 @@
-# ��H�~�X�O���@��H�}NET�����`�F�b�N�c�[��
+# 回路ミス０％　回路図NET自動チェックツール
 
 
-���́@�������@�Ɛ\���܂��B
+私は　すがお　と申します。
 
-�n���h������sugaular�Œʂ��Ă��܂��B
+ハンドル名はsugaularで通しています。
 
-��Ђł̓G���L�Z�p�҂����Ă��܂��B
+会社ではエレキ技術者をしています。
 
 
-���̓x�A�v���C�x�[�g�ō����
+この度、プライベートで作った
 
-�uScutChecker�v�ƌ����t���[�\�t�g��
+「ScutChecker」と言うフリーソフトの
 
-�Љ�ɏオ��܂����B
+紹介に上がりました。
 
 
 ---
 
-## �A�W�F���_
+## アジェンダ
 
-* ScoutChecker�Ƃ́H
-* �����郁���b�g
-* �g����
-* ����
+* ScoutCheckerとは？
+* 得られるメリット
+* 使い方
+* 今後
 
 ---
 
